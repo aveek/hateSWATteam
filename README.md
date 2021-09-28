@@ -8,7 +8,7 @@ unhighlighted portions in the code files. Make no changes elsewhere
 **This program can be used to find who all RTed a tweet,
 tweeted on a hashtag # or keyword**
 
-Run on an IDE like VS Code, PyCharm or command prompt/terminal by typing: python3 tweet_search.py
+Run on an IDE like VS Code, PyCharm or command prompt/terminal by typing: python3 tweet_search.py in command prompt (cmd) or terminal
 
 The codes have to be run in order. First
 python3 tweet_search.py
