@@ -19,7 +19,7 @@ python3 people_details.py
 
 
 
-A guide on how to use the codes and interpret the csv spreadsheet files is provided in this Youtube tutorial video: https://www.youtube.com/watch?v=F8VX3j9hT-8
+A guide on how to use the codes and interpret the csv spreadsheet files to find who spread hate speech is provided in this Youtube tutorial video: https://www.youtube.com/watch?v=F8VX3j9hT-8
 
 You can get a Twitter API key by applying for a developer account. Easy and quick to get. Will be needed to run the code
 
