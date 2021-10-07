@@ -94,7 +94,7 @@ people_details_df.to_csv('iStandWithAssamPolice_RTers.csv', encoding='utf-8', in
 
 
 
-dropped_duplicates_RTers = people_details_df.drop_duplicates(subset='name')
+dropped_duplicates_RTers = people_details_df.drop_duplicates(subset='handle')
 
 dropped_duplicates_RTers.to_csv('iStandWithAssamPolice_unique_RTers.csv', encoding='utf-8', index=False)
 
